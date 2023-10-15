@@ -31,7 +31,9 @@ TODO
 
 # 授權條款
 
-此字體目前（2023/10/16）使用 [免费商用字型授权 1.0版](https://free-commercial-font-license-chinese.github.io/fcfl/) 發佈。簡單來說，您可以：免費自用及商用此字體，但是不可以對字體文件本身進行改造後發佈。
+此字體目前（2023/10/16）使用 [免费商用字型授权 1.0版](https://free-commercial-font-license-chinese.github.io/fcfl/) 發佈。簡單來說，您可以：
+ - 免費自用及商用此字體，
+ - 但是不可以對字體文件本身進行改造後發佈。
 
 # 鳴謝
 
