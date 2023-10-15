@@ -3,7 +3,7 @@
 ![托碼頭點陣字體表情包 / Tomato Emoji](https://github.com/scott0107000/Tomato-Emoji/blob/ad826b731adcba8b8a0334fd448f26b82359a8d8/Image/Tomato.png#gh-light-mode-only)
 ![托碼頭點陣字體表情包 / Tomato Emoji](https://github.com/scott0107000/Tomato-Emoji/blob/3db1c502d663de8e6b070972a43f0600462ca9f7/Image/TomatoD.png#gh-dark-mode-only)  
 
-這是一款高×闊15點陣加上1點陣做字間的**點陣**TTF字體表情包。目前的版本號為**1.0**，公開了**單色版托碼頭表情包**，收錄了**139**個表情及符號、**4**個特殊圖案、**3**個可替換圖案（不計算Emoji外字符）。此字體會持續更新，加入更多圖案及新增彩色版。
+這是一款**高×闊15點陣加上1點陣做字間**的**點陣**TTF字體表情包。目前的版本號為**1.0**，公開了**單色版托碼頭表情包**，收錄了**139**個表情及符號、**4**個特殊圖案、**3**個可替換圖案（不計算Emoji外字符）。此字體會持續更新，加入更多圖案及新增彩色版。
 
 # 表情符號
 
@@ -36,3 +36,13 @@ TODO
 # 鳴謝
 
 使用 [BitFontMaker2™](https://www.pentacom.jp/pentacom/bitfontmaker2/) 製作﹐十分感謝作者的付出使此點陣字體得以誕生。
+
+# 贊助
+
+ - 如果喜歡我們的字型，覺得我的字型對你很有幫助，歡迎抖內。您的支持是給予我們製作更多中文字型的能量（及零食的熱量）🥰：
+   
+[贊助網址](https://core.newebpay.com/EPG/boutiquebitmap/aQJIdj) 
+
+ 
+![圖片5](https://github.com/scott0107000/Tomato-Emoji/blob/1c3ca410383e72f047b538a46996dc7a1170d9ce/Image/ToamtoDonate.png#gh-light-mode-only)
+![圖片5](https://github.com/scott0107000/Tomato-Emoji/blob/1c3ca410383e72f047b538a46996dc7a1170d9ce/Image/ToamtoDonateD.png#gh-dark-mode-only)
