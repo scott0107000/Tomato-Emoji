@@ -27,7 +27,10 @@ TODO
 
 # 推荐使用方法
 
-TODO
+因為此字體的點陣格數為 **16×16** ，在 Windows 系統上對應字級 12（96 dpi）、Mac 系統對應 16（72 dpi）。故可以搭配內嵌點陣或本身就是點陣體的字體進行搭配。也可以在綫下常見之單行 LED 燈牌使用。
+
+![推荐圖案](./Image/Tomato4.png#gh-light-mode-only)
+![推荐圖案](./Image/Tomato4D.png#gh-dark-mode-only)
 
 # 授權條款
 
