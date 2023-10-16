@@ -1,0 +1,84 @@
+Copyright © 16 October 2023, Cen-cyun, Liu. with font name Tomato Emoji.
+
+This Font Software is licensed under the Free For Commercial Use Font License, Version 1.0.
+This license is copied below, and is also available at:
+https://github.com/free-commercial-font-license-chinese/fcfl
+
+------------------------------------------------------------------
+FREE FOR COMMERCIAL USE FONT LICENSE VERSION 1.0 - 01 DECEMBER 2020
+------------------------------------------------------------------
+
+Section 0. PREAMBLE
+Free For Commercial Use Font License (FCFL) is a font license that is targetted for generic font authors/foundries to provide a written license such that the agreement can be made permanently without the risk of retracting.
+
+This license strongly encourages font authors/foundries to use the newest version of "SIL Open Font License (SIL OFL)" which is a collaborative font licensing solution that can support more font authors/foundries to create free and open-source fonts. Authors/font foundries are encourages to switch to SIL OFL from this license as soon as possible.
+
+The FCFL allows the licensed font to only be used for personal and commercial uses as listed below. Any fonts may be licensed under this license, but if the author agrees for any derivative works to be made, the font licensed under this license and all its derivative works must be released under SIL OFL and not under any other type of license. This is to stimulate further developments of collaborative font projects under a free and open framework in which fonts may be shared and improved in partnership with others. The requirement for derivative works using the licensed fonts to use SIL OFL does not apply to any document created using the fonts or their derivatives.
+
+Section 1. DEFINITIONS
+1. "Copyright Holder(s)" means whoever is named in the copyright(s) for the Font.
+
+2. "Font Software" refers to the set of files released by the Copyright Holder(s) under this License and clearly marked as such. This may include source files, build scripts and documentation.
+
+3. "Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+4. "Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+5. "Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+6. "Content" includes products provided to end users in the form of digital data, such as video content, motion and/or still pictures, TV programs or other broadcasting content, and products consisting of character text, pictures, photographic images, graphic symbols and/or the like.
+
+7. "Document" shall mean a PDF file or other content created by various software programs in which a part or all of the Font Software becomes embedded or contained in the file for the display of the font only (“Embedded Fonts”). Embedded Fonts are used only in the display of characters in the particular document within which they are embedded, and shall be distinguished from those in any Font Software, which may be used for display of characters outside that particular document.
+
+8. "Software" shall include any desktop applications, mobile applications, web pages, and any form of set of digital instructions.
+
+9. "Reproduction and Other Exploitation" shall include reproduction, transfer, distribution, lease, public transmission, presentation, exhibition, adaptation and any other exploitation.
+
+10. "SIL Open Font License (SIL OFL)" refers to the free, libre and open source license specifically designed for fonts and related software released by SIL International at https://scripts.sil.org/OFL.
+
+Section 2. COPYRIGHT NOTICE
+The Font Software is the intellectual property of its respective Author and/or Copyright Holder(s), provided it is original, and is protected by copyright laws in many parts of the world.
+
+Section 3. PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any user obtaining a copy of the Font Software to use in any content, document and/or software, subject to the following conditions:
+
+1. Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2. The Font Software may be bundled and/or sold with any software, provided that each copy contains the above copyright notice and this License. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3. No Modified Version, including Reproduction and Other Exploitation methods, of any Font Software or any of its individual components licensed under this License can be made without written permission from the Author(s) or Copyright Holder(s). 
+
+4. As a special case of Paragraph 3, the Font Software may be converted to other formats such as WOFF, SVG or EOT webfonts, as long as the Font Software is not modified in any other way, such as changing names or altering individual glyphs.
+
+5. If the Author(s) or Copyright Holder(s) of an Original Version of a Font Software licensed under this License allows any Modified Version of the Font Software (except for cases in Paragraph 4) to be made, including Reproduction and Other Exploitation methods, both the Original Version of the Font Software and its Modified Versions will immediately be re-license under SIL Open Font License (SIL OFL) when the Modified Version of the Font Software is released. The Author(s) or Copyright Holder(s) may decide if the Font Software to have a Reserved Font Name(s) under SIL OFL. The new SIL OFL license must be redistributed along the Original Version of Font Software from there onwards. Any old distribution of the Font Software will also be re-licensed under SIL OFL and the Author(s) or Copyright Holder(s) must inform the public on the re-licensing.
+
+6. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+7. The Font Software may be used to create any amount of content and document, independant of the number of the user and geographical region.
+
+8. Original Versions of a Font Software without any Modified Version existing must be distributed under this License in part or in whole.
+
+9. Original Versions of a Font Software with any Modified Version existing must be distributed under SIL OFL in part or in whole, and must not be distributed under any other License.
+
+10. The requirement for fonts to remain under this License or SIL OFL does not apply to any document created using the Font Software.
+
+Section 4. TERMINATION
+1. The term of this License shall begin from the time of receipt of the Font Software by the user and shall continue as long as the user retains any Font Software.
+
+2. This License shall automatically be terminated when any Modified Version, including Reproduction and Other Exploitation, of the Font Software licensed under this License is made. The Original and Modified Version of the Font Software must be re-licensed under SIL Open Font License and the Author(s) or Copyright Holder(s) must produce a notice to the general public and user as per Section 3, Paragraph 5.
+
+3. In the event of any of the above conditions are not met, this License shall automatically becomes null and void without any notice. In the case of such termination, the user may not use or conduct Reproduction and Other Exploitation of the Font Software.
+
+Section 5. DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+Section 6. LANGUAGE
+THIS LICENSE IS WRITTEN IN BOTH ENGLISH AND CHINESE, AND BOTH ENGLISH VERSION AND CHINESE VERSION SHALL HAVE THE SAME LEGAL EFFECT. IN THE CASE OF DIVERGENCE BETWEEN THE ENGLISH AND CHINESE VERSIONS, THE ENGLISH VERSION SHALL PREVAIL.
