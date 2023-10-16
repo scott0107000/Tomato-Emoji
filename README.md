@@ -7,7 +7,10 @@
 
 # 表情符號
 
-TODO
+目前已經填滿 Unicode Emoticons（表情符號）區塊及部分填滿 Supplemental Symbols and Pictographs（補充符號和象形文字）區塊。
+
+![表情圖案](./Image/Tomato5.png#gh-light-mode-only)
+![表情圖案](./Image/Tomato5D.png#gh-dark-mode-only)
 
 # 特殊圖案
 
