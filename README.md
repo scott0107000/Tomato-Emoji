@@ -12,6 +12,12 @@
 ![表情圖案](./Image/Tomato5.png#gh-light-mode-only)
 ![表情圖案](./Image/Tomato5D.png#gh-dark-mode-only)
 
+# 創作故事
+
+歡迎來 [「字言字型 Blog」此篇小文](https://fontspeech.blogspot.com/2023/10/ttf-httpsgithub.html) 閱讀創作故事。
+
+在表情包創作後 [遇到的小插曲](https://luke036.blogspot.com/2024/10/tomato.html) 對我來說還挺有趣，與您分享！
+
 # 特殊圖案
 
 此字體目前收錄的特殊圖案如下，關於連字及 Unicode 碼的輸入方式可於 [字言星雨體替換字使用說明書](https://drive.google.com/file/d/1RQrZQI7bH0WMVE2nm4ei7nG2kH1Mtvk8/view?usp=sharing) 參照參考。
